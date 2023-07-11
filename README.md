@@ -11,4 +11,4 @@
 <p>글 수정</p>
 <img src="https://user-images.githubusercontent.com/54385416/252541230-b54521a6-9cc1-4b2e-8094-cf3eaca36546.png"/><br>
 <p>글 삭제</p>
-<img src="https://user-images.githubusercontent.com/54385416/252539987-314668e5-0ea7-4e57-b01f-9be3db381643.png"/>
+<img src="https://user-images.githubusercontent.com/54385416/252540474-751615d5-2579-48d8-bd5e-2f3cf353aec0.png"/>

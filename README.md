@@ -1,6 +1,8 @@
 <h2>mvc-study</h2>
-<p>하계방학 프리캡스톤 프로그램에서 mvc를 활용해 간단한 게시판을 만들어보았습니다</p><br>
-
+<p>하계방학 프리캡스톤 프로그램에서 mvc를 활용해 간단한 게시판을 만들어보았습니다</p>
+<p>servlet과 jsp를 사용했으며 데이터베이스 툴은 MySQL을 사용하였습니다</p><br><br>
+<p>DB 테이블(board)</p>
+<img src="https://user-images.githubusercontent.com/54385416/252542547-2ae6b844-7089-4122-a5ff-23e91763b3db.png"/><br>
 <p>메인화면</p>
 <img src="https://user-images.githubusercontent.com/54385416/252539987-314668e5-0ea7-4e57-b01f-9be3db381643.png"/><br>
 <p>목록화면</p>
